@@ -1,0 +1,16 @@
+Method overloading :
+
+1.intro
+2. compile time polymorphism , early or static binding.
+3. parameters must be differnent
+4. is performed within a class
+5.Method overloading is used to increase the readability of the program.
+
+Method overideing :
+
+1.intro
+2. run time polymorphism , late or dynamic binding.
+3. parameters must be same between super and sub class
+4. is performed between two classes child and parent and follows a is a relationship.
+5. Method overriding is used to provide the specific implementation of the method
+ that is already provided by its super class.

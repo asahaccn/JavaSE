@@ -1,0 +1,16 @@
+abstract vs interface 
+
+1. Abstract keyword is used to represent abstract class
+   Interface keyword is used to represnt interface
+
+2. Abstract class can be extended using extends
+   Interface class can be extented using implements
+
+3. Abstract class can have abstract and non abstract method.
+   Interface class can have only abstract method
+
+4. Abstract class can have final , static , non final and non static keyword.
+   Interface class can only have final and static keyword.
+
+5. Abstract class does not support multiple inheritance 
+   Interface class does support multiple inheritance.
